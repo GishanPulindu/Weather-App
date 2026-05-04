@@ -2,7 +2,12 @@
 
 A simple **Weather searching application with a graphical user interface (GUI)** built using Python, Tkinter and free API.
 This app allows users to search the weather of a city in any country by names, showing from the temperature to pressure and humidity.
-![alt text](<Weather App Intial Screenshot (632).png>)   ![alt text](<Weather app working Screenshot (633).png>)
+
+
+![alt text](<Weather App Intial Screenshot (632).png>)   
+
+![alt text](<Weather app Working Screenshot (633).png>)
+
 ---
 
 ## 🚀 Features
@@ -43,7 +48,14 @@ git clone https://github.com/GishanPulindu/Weather-App.git
 cd weather-application
 ```
 
-2. **Run the application**
+2. **Run requirnment.txt in terminal**
+
+```
+pip install -r requirnment.txt
+```
+
+
+3. **Run the application**
 
 ```
 python App.py
