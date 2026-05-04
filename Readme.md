@@ -4,9 +4,9 @@ A simple **Weather searching application with a graphical user interface (GUI)**
 This app allows users to search the weather of a city in any country by names, showing from the temperature to pressure and humidity.
 
 
-![Weather App Intial Screenshot](<Weather app/Weather App Intial Screenshot (632).png>)   
+![Weather App Intial Screenshot](<Weather App/Weather App Intial Screenshot (632).png>)   
 
-![Weather App Working Screenshot](<Weather app/Weather app Working Screenshot (633).png>)
+![Weather App Working Screenshot](<Weather App/Weather app Working Screenshot (633).png>)
 
 ---
 
